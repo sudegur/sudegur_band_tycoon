@@ -58,7 +58,7 @@ This project was developed for the **CENG113M Best Project Competition** (Spring
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/band-tycoon-manager.git
+git clone https://github.com/sudegur/band-tycoon-manager.git
 
 # Navigate into the folder
 cd band-tycoon-manager
@@ -120,5 +120,5 @@ band-tycoon-manager/
 
 ## 👤 Developer
 
-**[Adın Soyadın]**  
+**[Sude Gür]**  
 İzmir Institute of Technology — CENG113M Spring 2025-2026
